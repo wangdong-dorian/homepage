@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+A more detialed version in [mycv](../files/Dorian_Resumes.pdf)
+
 Education
 ======
 
@@ -30,8 +32,8 @@ Internship
 Skills
 ======
 - Languages: 
-> English (Fluent in speaking & Able to carry on scientific writing)
+> English (Fluent in speaking and writing)
 - Programming: 
 > Python (Proficient), GILDAS (Familiar with CLASS), LATEX (Intermediate) 
 - Large Datasets: 
-> Able to process -large datasets such as CO data from MWISP
+> Able to process large datasets such as CO data from MWISP
