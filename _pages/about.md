@@ -7,8 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a master student in School of Astronomy and Space Science, University of Science and Technology of China, which is also known as the Purple Mountain Observatory, Chinese Academy of Sciences. 
+I am a master's student at the School of Astronomy and Space Science, University of Science and Technology of China, which is associated with the Purple Mountain Observatory, Chinese Academy of Sciences.
 
-My foucses in astronomy is the physics of molecular clouds in the Milky Way, supershell formation under the effect of stellar feedback and the progenitors of SNRs, molecular clouds on the surface of the Local Bubble.
+My research in astronomy currently focuses on the fundamental properties of molecular clouds in the Milky Way, the relationship between the formation of molecular clouds and stellar feedback, and the characteristics of molecular clouds located on the surface of the Local Bubble.
 
-Currently, I am using the high quality CO observational data from MWISP which is a program intend to offer high quality CO data ranging from 9.75 degree to 230.25 degree in galactic longitude and from -10 degree to 10 degree in galactic latitude, and infrared catalogues from AllWISE, and stellar data from GAIA.
+
+Here's what I did during my master's degree [](../files/First_Paper_PPT.pdf)
+
+And my CV [](../files/Dorian_Resumes-.pdf)
