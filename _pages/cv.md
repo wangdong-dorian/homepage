@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Detailed CV in PDF version: [CV](../files/Dorian_Resumes-.pdf)
+Detailed CV in PDF version: [CV](../files/Dorian_Resumes.pdf)
 
 Education
 ======
