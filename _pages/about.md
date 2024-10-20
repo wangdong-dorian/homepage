@@ -16,4 +16,4 @@ Here's what I did during my master's degree: [Work](../files/Camelopardalis_repo
 
 And my [CV](../files/Dorian_Resumes-.pdf)
 
-Also, I am a big fan of motorsports, especially in F1 racing.
+Also, I am a big fan of motorsports, especially in F1 racing. Haha
