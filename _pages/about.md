@@ -11,6 +11,6 @@ I am a master's student at the School of Astronomy and Space Science, University
 
 My research in astronomy currently focuses on the fundamental properties of molecular clouds in the Milky Way, the relationship between the formation of molecular clouds and stellar feedback, and the characteristics of molecular clouds located on the surface of the Local Bubble.
 
-And my [CV](../files/Dorian_Resumes.pdf)
+And my [CV](../files/wangdong-dorian.resume.pdf)
 
 Also, I am a big fan of motorsports, especially in F1 racing. Haha
