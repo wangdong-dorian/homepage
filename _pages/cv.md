@@ -20,7 +20,7 @@ Education
 
 Current Work
 ======
-> see in **Research**
+> see in [Research](../reserches)
 
 Internship
 ======
