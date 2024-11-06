@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Detailed CV in PDF version: [CV](../files/wangdong-dorian.resume.pdf)
-
 Education
 ======
 
@@ -32,8 +30,13 @@ Internship
 Skills
 ======
 - Languages: 
-> English (Fluent in speaking and writing)
+> English (IELTS: overall band 6.5)
 - Programming: 
-> Python (Proficient), GILDAS (Familiar with CLASS), LATEX (Intermediate) 
+> Python (Proficient)  
+> GILDAS (Familiar with CLASS)  
+> LATEX (Intermediate) 
+
 - Large Datasets: 
 > Able to process large datasets such as CO data from MWISP
+
+**Or a pdf version**: [Resume](../files/wangdong-dorian.resume.pdf)
