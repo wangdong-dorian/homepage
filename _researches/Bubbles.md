@@ -11,4 +11,4 @@ author_profile: true
 ---
 
 
-In the [MCs in the Camelopardalis Region](../_researches/Camelopardalis.md), I have located some bubbles in the region. In this study, I am going to talk about these bubbles and explore their potential sources.
+In the [MCs in the Camelopardalis Region](/researches/Camelopardalis), I have located some bubbles in the region. In this study, I am going to talk about these bubbles and explore their potential sources.
