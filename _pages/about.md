@@ -23,6 +23,6 @@ redirect_from:
 
 - **A big fan of motorsports, especially in F1 racing.**
 
-- **A reptile and whale love**
+- **A reptile and whale lover**
 
 - **A music and poetry enthusiast**
