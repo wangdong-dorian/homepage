@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+<object data="../files/Introduction_Research.pdf" type="application/pdf" width="110%" height="220%">
+  <p>Your browser does not support PDFs. Please download the PDF to view it: <a href="../files/CV.pdf">Download PDF</a>.</p>
+</object>
+
 Education
 ======
 
@@ -38,5 +42,3 @@ Skills
 
 - Large Datasets: 
 > Able to process large datasets such as CO data from MWISP
-
-**Or a pdf version**: [Resume](../files/wangdong-dorian.resume.pdf)
